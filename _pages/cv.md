@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.S. in Computer Engineering, Aarhus University, Denmark, 2018
+  * Thesis: "A Deep Learning Approach to Predicting the Quality of Wine"
+  * Advisor: [Professor Ole Winther](http://olewinther.info/)
+* M.S. in Computer Engineering, Aarhus University, Denmark, 2020
+* Ph.D in Computer Engineering, Aarhus University, Denmark, 2023 (expected)
+  * Thesis: "Deep Learning for Time Series Analysis"
+  * Advisor: [Professor Stefan Hallerstede](http://olewinther.info/)
+  * Co-advisor: [Dr. Claudio Gomes](http://hansenlab.org/)
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Fall 2022: Intern
+  * Galois, Inc.
+  * Duties included: Modeling and analysis of the AADL standard/OSATE tool
+  * Supervisor: Joseph Kiniry
+
+* Fall 2023: Intern
+  * Galois, Inc.
+  * Duties included: Translating the Event-B formalism to the TPTP format to enable the use of automated theorem provers
+  * Supervisor: Joseph Kiniry
   
 Skills
 ======
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Coach for local youth orienteering club Orienteringsklubben Pan Aarhus (2020-2023)
