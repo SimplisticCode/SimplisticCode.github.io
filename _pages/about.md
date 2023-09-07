@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,3 +19,4 @@ Outside of research, I enjoy challenging myself both mentally and physically.
 I am a former elite orienteerer and have represented Denmark at the Junior World Orienteering Championships.
 I am now spending my experience as a coach in the local orienteering club OK Pan Århus and as a volunteer for the danish national team.
 
+Feel free to contact me if you have any questions or comments on my research or if you are interested in a collaboration.
