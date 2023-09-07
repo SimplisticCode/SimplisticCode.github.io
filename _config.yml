@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Simon Thrane Hansen"
 title_separator          : "-"
 name                     : &name "Simon Thrane Hansen"
 description              : &description "personal description"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Scientist in software engineering, formal methods and simulation of cyber-physical systems."
   location         : "Aarhus, Denmark"
-  employer         : "Aarhus University"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=VbBWx60AAAAJ&hl=en"
   email            : "sthranehansen@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -178,9 +178,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
