@@ -80,13 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Simon Thrane Hansen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Scientist in software engineering, formal methods and simulation of cyber-physical systems."
   location         : "Aarhus, Denmark"
   employer         : "Aarhus University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=VbBWx60AAAAJ&hl=en"
   email            : "sthranehansen@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  dblp             : "http://dblp.uni-trier.de/pers/hd/h/Hansen:Simon_Thrane"
 
 # Reading Files
 include:
@@ -227,23 +226,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:

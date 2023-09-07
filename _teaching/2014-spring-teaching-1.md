@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Modeling and Verification"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2020-spring-teaching-1
+venue: "Aarhus University, Department of Electrical and Computer Engineering"
+date: 2020-02-01
+location: "Aarhus, Denmark"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course introduces the students to the concepts of temporal logic, model checking and formal verification. 
+The course employs the TLA+ language and the TLC model checker to model and verify systems.
+Course material is based on the book "Specifying Systems" by Leslie Lamport, available [here](https://lamport.azurewebsites.net/tla/book.html).
